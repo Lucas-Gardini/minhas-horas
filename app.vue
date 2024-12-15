@@ -1,15 +1,21 @@
 <script setup lang="ts">
-const theme = useColorMode();
+onMounted(async () => {
+	const savedConfig = localStorage.getItem("app:config");
+	if (savedConfig) {
+		const keyCombination = JSON.parse(savedConfig).quickPanelKeyCombination?.value;
+		try {
+			if (await checkIfKeyCombinationIsRegistered(keyCombination)) await unregisterKeyCombination(keyCombination);
 
-onMounted(() => {
-	if (theme.value !== "light" && theme.value !== "dark") theme.value = "light";
+			registerKeyCombination(keyCombination);
+		} catch {}
+	}
 });
 </script>
 
 <template>
 	<main>
 		<v-responsive class="border">
-			<v-app :theme="theme">
+			<v-app>
 				<NuxtLayout>
 					<NuxtPage />
 				</NuxtLayout>

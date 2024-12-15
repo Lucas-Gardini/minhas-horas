@@ -23,17 +23,49 @@ export default defineNuxtConfig({
 		},
 	},
 
+	vuetify: {
+		vuetifyOptions: {
+			theme: {
+				defaultTheme: "light",
+				themes: {
+					light: {
+						dark: false,
+						colors: {
+							primary: "#0fb8e3",
+							secondary: "#192440",
+						},
+					},
+					dark: {
+						dark: true,
+						colors: {
+							primary: "#0fb8e3",
+							secondary: "#ffffff",
+						},
+					},
+				},
+			},
+		},
+	},
+
+	pinia: {
+		storesDirs: ["./stores/**"],
+	},
+
 	modules: [
-		"vuetify-nuxt-module",
-		"@nuxt/icon",
+		"vuetify-nuxt-module", // "@nuxt/icon",
 		"@pinia/nuxt",
+		"pinia-plugin-persistedstate/nuxt",
 		"@vueuse/nuxt",
-		"@formkit/auto-animate",
-		// "nuxt-lodash",
-		"@morev/vue-transitions",
+		"@formkit/auto-animate", // "nuxt-lodash",
+		"@morev/vue-transitions", //  "@nuxtjs/device",
 		"@nuxtjs/tailwindcss",
-		//  "@nuxtjs/device",
+		"nuxt-viewport",
+		"@nuxt/image",
 	],
 
 	css: ["@/assets/css/main.scss"],
+
+	app: {
+		pageTransition: { name: "page", mode: "out-in" },
+	},
 });

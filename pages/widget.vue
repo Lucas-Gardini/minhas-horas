@@ -1,9 +1,9 @@
 <script setup lang="ts">
-const route = useRoute();
+definePageMeta({
+	layout: "empty",
+});
 </script>
 
 <template>
-	<div>
-		<HourForm />
-	</div>
+	<div>WIDGET</div>
 </template>
