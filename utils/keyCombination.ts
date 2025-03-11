@@ -9,6 +9,7 @@ export async function checkIfKeyCombinationIsRegistered(keyCombination: string) 
 export async function registerKeyCombination(keyCombination: string) {
 	return await register(keyCombination, async () => {
 		const windows = await getAllWindows();
+		console.log(windows);
 		const widgetWindow = windows.find((window) => window.label === "widget");
 
 		if (widgetWindow) {

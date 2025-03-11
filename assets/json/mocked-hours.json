@@ -1,0 +1,802 @@
+[
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T11:45:00",
+		"endedAt": "2025-03-10T12:32:00",
+		"description": "Descri\u00e7\u00e3o da atividade 1",
+		"category": "Code Review",
+		"taskId": "task-463"
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T15:15:00",
+		"endedAt": "2025-03-10T17:36:00",
+		"description": "Descri\u00e7\u00e3o da atividade 2",
+		"category": null,
+		"taskId": "task-650"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T16:00:00",
+		"endedAt": "2025-03-10T17:04:00",
+		"description": "Descri\u00e7\u00e3o da atividade 3",
+		"category": "Code Review",
+		"taskId": null
+	},
+	{
+		"title": "Revis\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T17:15:00",
+		"endedAt": "2025-03-10T18:33:00",
+		"description": "Descri\u00e7\u00e3o da atividade 4",
+		"category": null,
+		"taskId": "task-937"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T13:06:00",
+		"description": "Descri\u00e7\u00e3o da atividade 5",
+		"category": "Code Review",
+		"taskId": "task-791"
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T12:00:00",
+		"endedAt": "2025-03-10T13:05:00",
+		"description": "Descri\u00e7\u00e3o da atividade 6",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T17:45:00",
+		"endedAt": "2025-03-10T18:59:00",
+		"description": "Descri\u00e7\u00e3o da atividade 7",
+		"category": "Refatora\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T14:00:00",
+		"endedAt": "2025-03-10T15:40:00",
+		"description": "Descri\u00e7\u00e3o da atividade 8",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T15:11:00",
+		"description": "Descri\u00e7\u00e3o da atividade 9",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": "task-129"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T15:30:00",
+		"endedAt": "2025-03-10T18:05:00",
+		"description": "Descri\u00e7\u00e3o da atividade 10",
+		"category": "Desenvolvimento",
+		"taskId": "task-471"
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T15:30:00",
+		"endedAt": "2025-03-10T17:35:00",
+		"description": "Descri\u00e7\u00e3o da atividade 11",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T11:45:00",
+		"endedAt": "2025-03-10T13:04:00",
+		"description": "Descri\u00e7\u00e3o da atividade 12",
+		"category": "Pesquisa",
+		"taskId": "task-602"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T14:00:00",
+		"endedAt": "2025-03-10T16:53:00",
+		"description": "Descri\u00e7\u00e3o da atividade 13",
+		"category": "Code Review",
+		"taskId": "task-253"
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T12:45:00",
+		"endedAt": "2025-03-10T15:06:00",
+		"description": "Descri\u00e7\u00e3o da atividade 14",
+		"category": "Testes",
+		"taskId": "task-328"
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T15:45:00",
+		"endedAt": "2025-03-10T16:59:00",
+		"description": "Descri\u00e7\u00e3o da atividade 15",
+		"category": "Refatora\u00e7\u00e3o",
+		"taskId": "task-776"
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T13:00:00",
+		"endedAt": "2025-03-10T15:47:00",
+		"description": "Descri\u00e7\u00e3o da atividade 16",
+		"category": "Pesquisa",
+		"taskId": "task-146"
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T12:45:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 17",
+		"category": null,
+		"taskId": "task-137"
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T13:00:00",
+		"endedAt": "2025-03-10T15:27:00",
+		"description": "Descri\u00e7\u00e3o da atividade 18",
+		"category": "Testes",
+		"taskId": "task-801"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T16:30:00",
+		"endedAt": "2025-03-10T19:29:00",
+		"description": "Descri\u00e7\u00e3o da atividade 19",
+		"category": "Code Review",
+		"taskId": null
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T11:30:00",
+		"endedAt": "2025-03-10T14:16:00",
+		"description": "Descri\u00e7\u00e3o da atividade 20",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": "task-573"
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T15:30:00",
+		"endedAt": "2025-03-10T16:28:00",
+		"description": "Descri\u00e7\u00e3o da atividade 21",
+		"category": "Reuni\u00e3o",
+		"taskId": "task-528"
+	},
+	{
+		"title": "Pesquisa sobre Nova Tecnologia",
+		"startedAt": "2025-03-10T15:00:00",
+		"endedAt": "2025-03-10T17:07:00",
+		"description": "Descri\u00e7\u00e3o da atividade 22",
+		"category": "Pesquisa",
+		"taskId": "task-564"
+	},
+	{
+		"title": "Revis\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T10:00:00",
+		"endedAt": "2025-03-10T11:59:00",
+		"description": "Descri\u00e7\u00e3o da atividade 23",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T14:30:00",
+		"endedAt": "2025-03-10T16:44:00",
+		"description": "Descri\u00e7\u00e3o da atividade 24",
+		"category": "Testes",
+		"taskId": "task-324"
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T17:30:00",
+		"endedAt": "2025-03-10T18:19:00",
+		"description": "Descri\u00e7\u00e3o da atividade 25",
+		"category": "Desenvolvimento",
+		"taskId": "task-354"
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T13:05:00",
+		"description": "Descri\u00e7\u00e3o da atividade 26",
+		"category": "Refatora\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T13:00:00",
+		"endedAt": "2025-03-10T15:58:00",
+		"description": "Descri\u00e7\u00e3o da atividade 27",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": "task-567"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T09:15:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 28",
+		"category": "Reuni\u00e3o",
+		"taskId": "task-210"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T11:00:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 29",
+		"category": "Reuni\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Corre\u00e7\u00e3o de Bug Cr\u00edtico",
+		"startedAt": "2025-03-10T08:45:00",
+		"endedAt": "2025-03-10T10:55:00",
+		"description": "Descri\u00e7\u00e3o da atividade 30",
+		"category": "Code Review",
+		"taskId": "task-438"
+	},
+	{
+		"title": "Revis\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T14:30:00",
+		"endedAt": "2025-03-10T16:24:00",
+		"description": "Descri\u00e7\u00e3o da atividade 31",
+		"category": "Testes",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T12:30:00",
+		"endedAt": "2025-03-10T14:32:00",
+		"description": "Descri\u00e7\u00e3o da atividade 32",
+		"category": "Code Review",
+		"taskId": "task-839"
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T11:15:00",
+		"endedAt": "2025-03-10T13:55:00",
+		"description": "Descri\u00e7\u00e3o da atividade 33",
+		"category": "Code Review",
+		"taskId": "task-782"
+	},
+	{
+		"title": "Corre\u00e7\u00e3o de Bug Cr\u00edtico",
+		"startedAt": "2025-03-10T15:15:00",
+		"endedAt": "2025-03-10T18:06:00",
+		"description": "Descri\u00e7\u00e3o da atividade 34",
+		"category": "Desenvolvimento",
+		"taskId": "task-684"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T11:45:00",
+		"endedAt": "2025-03-10T14:30:00",
+		"description": "Descri\u00e7\u00e3o da atividade 35",
+		"category": "Refatora\u00e7\u00e3o",
+		"taskId": "task-433"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T15:45:00",
+		"endedAt": "2025-03-10T17:37:00",
+		"description": "Descri\u00e7\u00e3o da atividade 36",
+		"category": "Testes",
+		"taskId": null
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T17:45:00",
+		"endedAt": "2025-03-10T19:17:00",
+		"description": "Descri\u00e7\u00e3o da atividade 37",
+		"category": null,
+		"taskId": "task-924"
+	},
+	{
+		"title": "Corre\u00e7\u00e3o de Bug Cr\u00edtico",
+		"startedAt": "2025-03-10T14:45:00",
+		"endedAt": "2025-03-10T17:02:00",
+		"description": "Descri\u00e7\u00e3o da atividade 38",
+		"category": "Desenvolvimento",
+		"taskId": null
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T14:00:00",
+		"endedAt": "2025-03-10T16:20:00",
+		"description": "Descri\u00e7\u00e3o da atividade 39",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T14:12:00",
+		"description": "Descri\u00e7\u00e3o da atividade 40",
+		"category": "Pesquisa",
+		"taskId": null
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T15:45:00",
+		"endedAt": "2025-03-10T16:30:00",
+		"description": "Descri\u00e7\u00e3o da atividade 41",
+		"category": "Testes",
+		"taskId": null
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T09:00:00",
+		"endedAt": "2025-03-10T10:12:00",
+		"description": "Descri\u00e7\u00e3o da atividade 42",
+		"category": "Pesquisa",
+		"taskId": "task-776"
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T09:45:00",
+		"endedAt": "2025-03-10T11:03:00",
+		"description": "Descri\u00e7\u00e3o da atividade 43",
+		"category": "Testes",
+		"taskId": "task-349"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T11:15:00",
+		"endedAt": "2025-03-10T13:58:00",
+		"description": "Descri\u00e7\u00e3o da atividade 44",
+		"category": "Testes",
+		"taskId": "task-753"
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T08:00:00",
+		"endedAt": "2025-03-10T10:33:00",
+		"description": "Descri\u00e7\u00e3o da atividade 45",
+		"category": "Refatora\u00e7\u00e3o",
+		"taskId": "task-362"
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T11:15:00",
+		"endedAt": "2025-03-10T11:45:00",
+		"description": "Descri\u00e7\u00e3o da atividade 46",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": "task-481"
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T08:30:00",
+		"endedAt": "2025-03-10T10:56:00",
+		"description": "Descri\u00e7\u00e3o da atividade 47",
+		"category": "Reuni\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T10:30:00",
+		"endedAt": "2025-03-10T12:03:00",
+		"description": "Descri\u00e7\u00e3o da atividade 48",
+		"category": "Reuni\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T17:45:00",
+		"endedAt": "2025-03-10T19:47:00",
+		"description": "Descri\u00e7\u00e3o da atividade 49",
+		"category": "Testes",
+		"taskId": "task-342"
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T09:00:00",
+		"endedAt": "2025-03-10T11:46:00",
+		"description": "Descri\u00e7\u00e3o da atividade 50",
+		"category": "Desenvolvimento",
+		"taskId": "task-677"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T10:30:00",
+		"endedAt": "2025-03-10T11:43:00",
+		"description": "Descri\u00e7\u00e3o da atividade 51",
+		"category": "Desenvolvimento",
+		"taskId": "task-811"
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T14:30:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 52",
+		"category": "Testes",
+		"taskId": "task-485"
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T08:15:00",
+		"endedAt": "2025-03-10T09:28:00",
+		"description": "Descri\u00e7\u00e3o da atividade 53",
+		"category": null,
+		"taskId": "task-326"
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T17:00:00",
+		"endedAt": "2025-03-10T19:57:00",
+		"description": "Descri\u00e7\u00e3o da atividade 54",
+		"category": "Desenvolvimento",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T12:45:00",
+		"endedAt": "2025-03-10T15:05:00",
+		"description": "Descri\u00e7\u00e3o da atividade 55",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Pesquisa sobre Nova Tecnologia",
+		"startedAt": "2025-03-10T17:15:00",
+		"endedAt": "2025-03-10T18:24:00",
+		"description": "Descri\u00e7\u00e3o da atividade 56",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T15:45:00",
+		"endedAt": "2025-03-10T17:02:00",
+		"description": "Descri\u00e7\u00e3o da atividade 57",
+		"category": null,
+		"taskId": "task-458"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T12:30:00",
+		"endedAt": "2025-03-10T15:17:00",
+		"description": "Descri\u00e7\u00e3o da atividade 58",
+		"category": "Testes",
+		"taskId": "task-946"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T08:15:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 59",
+		"category": "Code Review",
+		"taskId": "task-324"
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T15:30:00",
+		"endedAt": "2025-03-10T17:18:00",
+		"description": "Descri\u00e7\u00e3o da atividade 60",
+		"category": "Testes",
+		"taskId": "task-428"
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T12:45:00",
+		"endedAt": "2025-03-10T14:37:00",
+		"description": "Descri\u00e7\u00e3o da atividade 61",
+		"category": "Code Review",
+		"taskId": "task-425"
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T09:15:00",
+		"endedAt": "2025-03-10T10:50:00",
+		"description": "Descri\u00e7\u00e3o da atividade 62",
+		"category": null,
+		"taskId": "task-986"
+	},
+	{
+		"title": "Pesquisa sobre Nova Tecnologia",
+		"startedAt": "2025-03-10T11:30:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 63",
+		"category": "Desenvolvimento",
+		"taskId": "task-739"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T16:45:00",
+		"endedAt": "2025-03-10T17:54:00",
+		"description": "Descri\u00e7\u00e3o da atividade 64",
+		"category": "Desenvolvimento",
+		"taskId": null
+	},
+	{
+		"title": "Pesquisa sobre Nova Tecnologia",
+		"startedAt": "2025-03-10T16:00:00",
+		"endedAt": "2025-03-10T16:54:00",
+		"description": "Descri\u00e7\u00e3o da atividade 65",
+		"category": "Pesquisa",
+		"taskId": null
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T09:00:00",
+		"endedAt": "2025-03-10T10:50:00",
+		"description": "Descri\u00e7\u00e3o da atividade 66",
+		"category": "Desenvolvimento",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T13:45:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 67",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T16:45:00",
+		"endedAt": "2025-03-10T19:32:00",
+		"description": "Descri\u00e7\u00e3o da atividade 68",
+		"category": "Pesquisa",
+		"taskId": "task-821"
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T11:00:00",
+		"endedAt": "2025-03-10T11:41:00",
+		"description": "Descri\u00e7\u00e3o da atividade 69",
+		"category": "Reuni\u00e3o",
+		"taskId": "task-183"
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T11:15:00",
+		"endedAt": "2025-03-10T13:32:00",
+		"description": "Descri\u00e7\u00e3o da atividade 70",
+		"category": "Reuni\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T16:00:00",
+		"endedAt": "2025-03-10T16:57:00",
+		"description": "Descri\u00e7\u00e3o da atividade 71",
+		"category": "Testes",
+		"taskId": "task-315"
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T09:00:00",
+		"endedAt": "2025-03-10T09:53:00",
+		"description": "Descri\u00e7\u00e3o da atividade 72",
+		"category": "Pesquisa",
+		"taskId": null
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T16:15:00",
+		"endedAt": "2025-03-10T18:04:00",
+		"description": "Descri\u00e7\u00e3o da atividade 73",
+		"category": "Reuni\u00e3o",
+		"taskId": "task-236"
+	},
+	{
+		"title": "Documenta\u00e7\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T10:45:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 74",
+		"category": "Reuni\u00e3o",
+		"taskId": "task-702"
+	},
+	{
+		"title": "Corre\u00e7\u00e3o de Bug Cr\u00edtico",
+		"startedAt": "2025-03-10T15:00:00",
+		"endedAt": "2025-03-10T15:42:00",
+		"description": "Descri\u00e7\u00e3o da atividade 75",
+		"category": "Pesquisa",
+		"taskId": null
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T12:00:00",
+		"endedAt": "2025-03-10T13:28:00",
+		"description": "Descri\u00e7\u00e3o da atividade 76",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T14:00:00",
+		"endedAt": "2025-03-10T15:38:00",
+		"description": "Descri\u00e7\u00e3o da atividade 77",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": "task-406"
+	},
+	{
+		"title": "Pesquisa sobre Nova Tecnologia",
+		"startedAt": "2025-03-10T17:15:00",
+		"endedAt": "2025-03-10T17:46:00",
+		"description": "Descri\u00e7\u00e3o da atividade 78",
+		"category": "Desenvolvimento",
+		"taskId": "task-292"
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T16:45:00",
+		"endedAt": "2025-03-10T19:45:00",
+		"description": "Descri\u00e7\u00e3o da atividade 79",
+		"category": "Desenvolvimento",
+		"taskId": "task-693"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T15:15:00",
+		"endedAt": "2025-03-10T16:54:00",
+		"description": "Descri\u00e7\u00e3o da atividade 80",
+		"category": "Code Review",
+		"taskId": "task-725"
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T12:56:00",
+		"description": "Descri\u00e7\u00e3o da atividade 81",
+		"category": "Refatora\u00e7\u00e3o",
+		"taskId": "task-211"
+	},
+	{
+		"title": "Revis\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T10:00:00",
+		"endedAt": "2025-03-10T12:22:00",
+		"description": "Descri\u00e7\u00e3o da atividade 82",
+		"category": null,
+		"taskId": "task-456"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T17:15:00",
+		"endedAt": "2025-03-10T18:58:00",
+		"description": "Descri\u00e7\u00e3o da atividade 83",
+		"category": null,
+		"taskId": "task-524"
+	},
+	{
+		"title": "Planejamento de Sprint",
+		"startedAt": "2025-03-10T11:30:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 84",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T13:45:00",
+		"endedAt": "2025-03-10T15:50:00",
+		"description": "Descri\u00e7\u00e3o da atividade 85",
+		"category": "Documenta\u00e7\u00e3o",
+		"taskId": null
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T10:30:00",
+		"endedAt": "2025-03-10T13:10:00",
+		"description": "Descri\u00e7\u00e3o da atividade 86",
+		"category": "Pesquisa",
+		"taskId": "task-569"
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T09:00:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 87",
+		"category": "Desenvolvimento",
+		"taskId": "task-906"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T14:38:00",
+		"description": "Descri\u00e7\u00e3o da atividade 88",
+		"category": "Desenvolvimento",
+		"taskId": "task-564"
+	},
+	{
+		"title": "Deploy para Produ\u00e7\u00e3o",
+		"startedAt": "2025-03-10T12:15:00",
+		"endedAt": "2025-03-10T14:01:00",
+		"description": "Descri\u00e7\u00e3o da atividade 89",
+		"category": null,
+		"taskId": null
+	},
+	{
+		"title": "Desenvolvimento de API",
+		"startedAt": "2025-03-10T10:15:00",
+		"endedAt": "2025-03-10T11:01:00",
+		"description": "Descri\u00e7\u00e3o da atividade 90",
+		"category": null,
+		"taskId": "task-419"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T14:45:00",
+		"endedAt": "2025-03-10T15:46:00",
+		"description": "Descri\u00e7\u00e3o da atividade 91",
+		"category": "Desenvolvimento",
+		"taskId": "task-924"
+	},
+	{
+		"title": "Revis\u00e3o de C\u00f3digo",
+		"startedAt": "2025-03-10T17:00:00",
+		"endedAt": "2025-03-10T18:27:00",
+		"description": "Descri\u00e7\u00e3o da atividade 92",
+		"category": null,
+		"taskId": "task-246"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T08:15:00",
+		"endedAt": "2025-03-10T10:45:00",
+		"description": "Descri\u00e7\u00e3o da atividade 93",
+		"category": "Testes",
+		"taskId": "task-141"
+	},
+	{
+		"title": "Pesquisa sobre Nova Tecnologia",
+		"startedAt": "2025-03-10T15:45:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 94",
+		"category": "Desenvolvimento",
+		"taskId": null
+	},
+	{
+		"title": "Reuni\u00e3o com Cliente",
+		"startedAt": "2025-03-10T12:30:00",
+		"endedAt": "2025-03-10T15:24:00",
+		"description": "Descri\u00e7\u00e3o da atividade 95",
+		"category": "Desenvolvimento",
+		"taskId": "task-825"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T12:30:00",
+		"endedAt": "2025-03-10T15:01:00",
+		"description": "Descri\u00e7\u00e3o da atividade 96",
+		"category": "Pesquisa",
+		"taskId": "task-533"
+	},
+	{
+		"title": "Treinamento Interno",
+		"startedAt": "2025-03-10T10:30:00",
+		"endedAt": null,
+		"description": "Descri\u00e7\u00e3o da atividade 97",
+		"category": "Pesquisa",
+		"taskId": null
+	},
+	{
+		"title": "Refatora\u00e7\u00e3o do Sistema",
+		"startedAt": "2025-03-10T14:00:00",
+		"endedAt": "2025-03-10T16:49:00",
+		"description": "Descri\u00e7\u00e3o da atividade 98",
+		"category": null,
+		"taskId": "task-138"
+	},
+	{
+		"title": "Teste Automatizado",
+		"startedAt": "2025-03-10T12:45:00",
+		"endedAt": "2025-03-10T13:32:00",
+		"description": "Descri\u00e7\u00e3o da atividade 99",
+		"category": "Desenvolvimento",
+		"taskId": "task-553"
+	},
+	{
+		"title": "Otimiza\u00e7\u00e3o de Banco de Dados",
+		"startedAt": "2025-03-10T10:15:00",
+		"endedAt": "2025-03-10T11:54:00",
+		"description": "Descri\u00e7\u00e3o da atividade 100",
+		"category": null,
+		"taskId": "task-670"
+	}
+]

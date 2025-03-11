@@ -33,16 +33,21 @@ onMounted(() => {
 </script>
 
 <template>
-	<v-form @submit.prevent="saveConfig">
-		<div id="quick-panel">
-			<v-label> Combinação de teclas do painel rápido </v-label>
-			<key-combination-input
-				v-if="!loadingConfig"
-				:initialValue="config.quickPanelKeyCombination.value"
-				@success="({ metaKeys, normalKeys }) => (config.quickPanelKeyCombination.value = metaKeys.concat(normalKeys).join('+'))"
-			></key-combination-input>
-		</div>
+	<v-card>
+		<v-card-title> Registro de Horas </v-card-title>
+		<v-card-text>
+			<v-form @submit.prevent="saveConfig">
+				<div id="quick-panel">
+					<v-label> Combinação de teclas do painel rápido </v-label>
+					<key-combination-input
+						v-if="!loadingConfig"
+						:initialValue="config.quickPanelKeyCombination.value"
+						@success="({ metaKeys, normalKeys }) => (config.quickPanelKeyCombination.value = metaKeys.concat(normalKeys).join('+'))"
+					></key-combination-input>
+				</div>
 
-		<v-btn class="mt-5 w-[200px]" type="submit" color="primary" block>Salvar Configurações</v-btn>
-	</v-form>
+				<v-btn class="mt-5 w-[200px]" type="submit" color="primary" block>Salvar Configurações</v-btn>
+			</v-form>
+		</v-card-text>
+	</v-card>
 </template>

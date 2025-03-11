@@ -2,7 +2,7 @@ export default defineNuxtConfig({
 	compatibilityDate: "2024-12-09",
 
 	// (optional) Enable the Nuxt devtools
-	devtools: { enabled: true },
+	devtools: { enabled: false },
 
 	// Enable SSG
 	ssr: false,
